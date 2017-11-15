@@ -1,2 +1,2 @@
 # Deep-Learning
-6000B
+This is the first individual project of course 6000B.
